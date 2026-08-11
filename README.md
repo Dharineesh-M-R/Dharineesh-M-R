@@ -8,7 +8,7 @@ I'm a Computer Science and Business Systems student passionate about Full Stack 
 - 💻 Full Stack Developer
 - 🚀 Building scalable web applications
 - 🤝 Open to collaborations and hackathons
-- 📫 Reach me: your-email@example.com
+- 📫 Reach me: dharineeshmagudeswaran@gmail.com
 
 ---
 
