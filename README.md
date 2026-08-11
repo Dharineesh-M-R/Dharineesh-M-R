@@ -158,6 +158,4 @@ Working on:
 
 ## 🤝 Let's Connect
 
-- LinkedIn:
-- Portfolio:
-- Email:
+- Email: dharineeshmagudeswaran@gmail.com
