@@ -95,24 +95,6 @@ Working on:
 
 ---
 
-## 🎯 Leadership
-
-### Technical Event Lead
-
-Organized and coordinated:
-
-- UIDAI Hackathon
-- VITopia '26'
-
-Responsibilities:
-
-- Technical Operations
-- Team Coordination
-- Event Infrastructure
-- Faculty Coordination
-
----
-
 ## 🌱 Currently Learning
 
 - Inventory Management Systems
